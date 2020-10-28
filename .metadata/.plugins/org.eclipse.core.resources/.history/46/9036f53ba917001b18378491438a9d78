@@ -1,0 +1,5 @@
+package com.wellsfargo.lms.dto;
+
+public class Book {
+
+}

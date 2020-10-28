@@ -1,0 +1,10 @@
+package com.wellsfargo.lms.dto;
+
+public class Book {
+	Private Integer bookcode ;
+	title varchar(20) NOT NULL,
+	price decimal(10,2)	NOT NULL,
+	publish_date DATE NOT NULL,
+	category varchar(50) not null);
+
+}
